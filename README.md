@@ -13,7 +13,7 @@ The purpose of this challenge was to automate the results of a Colorado election
 
 ![election_results_terminal](analysis/election_results_terminal.png)
 
-##Election-Audit Summary
+## Election-Audit Summary
 The code used for this Congressional Election can be used to automate the results for any election. If the CSV file follows the same set up of columns as this one, the code will be able to automate the results per location and overall votes for every candidate.
 
 ### Examples to modify script
